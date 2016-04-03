@@ -1,6 +1,4 @@
-# BT-UDPT-1 - Bà tập 1
-
-**Name of your app** là một bài tập 1 tại môn UDPT.
+# BT-UDPT-1 - Bài tập 1
 
 Thành viên: Hồ Đức Hiếu - 1212121
             Lư Hán Luân - 1312348
@@ -17,18 +15,16 @@ Yêu cầu **GIT**:
 * [ ] Sử dụng GIT theo Feature Branch Workflow.
 * [ ] Sử dụng GIT theo Gitflow Workflow.
 
-Yêu cầu **thiết kế**:
-
-* [ ] Thiết kế theo table.
-* [ ] Thiết kế với div.
-* [ ] Thiết kế nâng cao
-    * [ ] Navigation, header, footer, sidebar.
-    * [ ] Các hiệu ứng: hover, focus,...
-* [ ] Thiết kế chạy trên nhiều trình duyệt
+* [x] Thiết kế theo table.
+* [x] Thiết kế với div.
+* [x] Thiết kế nâng cao
+    * [x] Navigation, header, footer, sidebar.
+    * [x] Các hiệu ứng: hover, focus,...
+* [x] Thiết kế chạy trên nhiều trình duyệt
     * [ ] IE
-    * [ ] Firefox
-    * [ ] Chrome
-    * [ ] Icon, màu sắc,...
+    * [x] Firefox
+    * [x] Chrome
+    * [x] Icon, màu sắc,...
 * [ ] Thiết kế responsive
 
 Liệt kê các **yêu cầu nâng cao** đã thực hiện:
