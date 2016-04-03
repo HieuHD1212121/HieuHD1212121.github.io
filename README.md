@@ -1,7 +1,8 @@
 # BT-UDPT-1 - Bài tập 1
 
-Thành viên: Hồ Đức Hiếu - 1212121
-            Lư Hán Luân - 1312348
+Thành viên:
+Hồ Đức Hiếu - 1212121
+Lư Hán Luân - 1312348
 
 URL: **URL hosting của bài tập**
 
